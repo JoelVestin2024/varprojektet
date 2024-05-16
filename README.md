@@ -1,6 +1,6 @@
 # Vårprojektet
 
-Vecka: 9
+Vecka: 9-
 Det var en spännande start på projektet när vi började med att definiera vår visuella identitet. Vi inledde med att skapa ett färgschema som skulle ligga till grund för hela vår design. Att välja rätt färger är avgörande för att skapa den rätta atmosfären och kommunicera vårt varumärkes budskap på ett effektivt sätt.
 
 Efter att vi hade fastställt färgschemat fortsatte vi med att skissa upp några wireframes. Dessa grova skisser gav oss en första uppfattning om layouten och strukturen för vårt gränssnitt. Det var ett värdefullt steg för att visualisera hur våra idéer skulle ta form i praktiken och identifiera eventuella områden som behövde ytterligare utveckling eller förtydligande.
@@ -11,7 +11,7 @@ Dessa tidiga steg satte grunden för vårt arbete och gav oss en klar riktning a
 
 
 
-Vecka: 10
+Vecka: 10-
 Idag fortsatte vi att fördjupa oss i struktur och användbarhet genom att skapa en sitemap för vårt projekt. Att utarbeta en sitemap är avgörande för att skapa en klar och logisk navigationsstruktur för vår webbplats eller applikation. Genom att visualisera hur olika sidor och sektioner är sammanlänkade kan vi säkerställa att användarna enkelt kan hitta det de letar efter och navigera genom vårt gränssnitt på ett intuitivt sätt.
 
 Samtidigt tog vi också fram fler wireframes för att förtydliga och förfina vår design. Wireframes är en grundläggande del av designprocessen som hjälper oss att skapa en ram för layout och funktionalitet innan vi går vidare till mer detaljerade designelement. Genom att experimentera med olika layoutalternativ och interaktionsmönster kan vi identifiera och lösa eventuella problem eller utmaningar tidigt i processen.
@@ -20,13 +20,13 @@ Genom att kombinera sitemappen med våra fortsatta insatser för att utveckla wi
 
 
 
-Vecka: 11
+Vecka: 11-
 Nästan hela denna lektion gick till att arbeta med markdown, så vi han inte gör så mycket.
 
-Vecka: 12
+Vecka: 12-
 Den har lektionen så fortsate vi med styguiden och dess komponenter.
 
-Vecka: 15
+Vecka: 15-
 Idag har vi tagit stora steg framåt med vårt designarbete. Vi har finjusterat våra wireframes för att säkerställa att de speglar våra visioner på bästa sätt. Dessutom har vi ägnat tid åt att utforska de olika färdiga komponenterna som Bootstrap erbjuder. Det har varit en givande process att se hur vi kan dra nytta av dessa för att snabba upp utvecklingen och samtidigt upprätthålla en enhetlig designstil.
 
 Vidare har vi djupdykt i CSS Grid för att utforska dess potential för layouthantering. Det är spännande att se hur vi kan skapa flexibla och responsiva layouter med denna teknik.
@@ -35,6 +35,6 @@ Vår Style Guide är nästan klar, vilket är en stor prestation i sig. Det ger 
 
 Att tydligt definiera och dokumentera våra designmönster är avgörande för att underlätta utvecklingsprocessen och främja konsistens i hela projektet. Vi kommer att fortsätta att granska och förbättra vårt pattern library för att säkerställa att det är användarvänligt och lätt att förstå för hela teamet.
 
-Vecka: 16
+Vecka: 16-
 
-Vecka: 17
+Vecka: 17-
