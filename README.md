@@ -24,7 +24,7 @@ Vecka: 11-
 Idag ägnade vi nästan hela lektionen åt att lära oss och arbeta med Markdown. Trots att det inte genererade mycket synliga framsteg i vårt projekt, är det viktigt att uppskatta värdet av att lära sig nya verktyg och tekniker som kan vara användbara i framtiden. Att förstå Markdown kan spara tid och öka vår produktivitet i kommande projekt genom dess förmåga att enkelt strukturera och formatera text. Även om dagens lektion kanske inte omedelbart påverkade vårt projekt, är det en värdefull investering i vår kompetens och effektivitet på lång sikt.
 
 Vecka: 12-
-Den har lektionen så fortsate vi med styguiden och dess komponenter.
+Under dagens lektion fortsatte vi att arbeta med vår Style Guide och dess olika komponenter.
 
 Vecka: 15-
 Idag har vi tagit stora steg framåt med vårt designarbete. Vi har finjusterat våra wireframes för att säkerställa att de speglar våra visioner på bästa sätt. Dessutom har vi ägnat tid åt att utforska de olika färdiga komponenterna som Bootstrap erbjuder. Det har varit en givande process att se hur vi kan dra nytta av dessa för att snabba upp utvecklingen och samtidigt upprätthålla en enhetlig designstil.
