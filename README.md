@@ -9,12 +9,16 @@ Parallellt med wireframes-utvecklingen tog vi oss också tid att välja typsnitt
 
 Dessa tidiga steg satte grunden för vårt arbete och gav oss en klar riktning att följa när vi fortsatte att utveckla och förbättra vårt projekt. Att ha ett väldefinierat färgschema, wireframes och typsnitt ger oss en stadig grund att bygga vidare på när vi utforskar och implementerar olika designdetaljer och funktioner.
 
+
+
 Vecka: 10
 Idag fortsatte vi att fördjupa oss i struktur och användbarhet genom att skapa en sitemap för vårt projekt. Att utarbeta en sitemap är avgörande för att skapa en klar och logisk navigationsstruktur för vår webbplats eller applikation. Genom att visualisera hur olika sidor och sektioner är sammanlänkade kan vi säkerställa att användarna enkelt kan hitta det de letar efter och navigera genom vårt gränssnitt på ett intuitivt sätt.
 
 Samtidigt tog vi också fram fler wireframes för att förtydliga och förfina vår design. Wireframes är en grundläggande del av designprocessen som hjälper oss att skapa en ram för layout och funktionalitet innan vi går vidare till mer detaljerade designelement. Genom att experimentera med olika layoutalternativ och interaktionsmönster kan vi identifiera och lösa eventuella problem eller utmaningar tidigt i processen.
 
 Genom att kombinera sitemappen med våra fortsatta insatser för att utveckla wireframes, kunde vi skapa en stark grund för vårt projekt. Detta kommer att hjälpa oss att säkerställa en enhetlig och användarvänlig upplevelse för våra användare när vi fortsätter att arbeta mot vår slutliga design och implementering.
+
+
 
 Vecka: 11
 Nästan hela denna lektion gick till att arbeta med markdown, så vi han inte gör så mycket.
