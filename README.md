@@ -21,7 +21,7 @@ Genom att kombinera sitemappen med våra fortsatta insatser för att utveckla wi
 
 
 Vecka: 11-
-Nästan hela denna lektion gick till att arbeta med markdown, så vi han inte gör så mycket.
+Idag ägnade vi nästan hela lektionen åt att lära oss och arbeta med Markdown. Trots att det inte genererade mycket synliga framsteg i vårt projekt, är det viktigt att uppskatta värdet av att lära sig nya verktyg och tekniker som kan vara användbara i framtiden. Att förstå Markdown kan spara tid och öka vår produktivitet i kommande projekt genom dess förmåga att enkelt strukturera och formatera text. Även om dagens lektion kanske inte omedelbart påverkade vårt projekt, är det en värdefull investering i vår kompetens och effektivitet på lång sikt.
 
 Vecka: 12-
 Den har lektionen så fortsate vi med styguiden och dess komponenter.
