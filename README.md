@@ -36,5 +36,12 @@ Vår Style Guide är nästan klar, vilket är en stor prestation i sig. Det ger 
 Att tydligt definiera och dokumentera våra designmönster är avgörande för att underlätta utvecklingsprocessen och främja konsistens i hela projektet. Vi kommer att fortsätta att granska och förbättra vårt pattern library för att säkerställa att det är användarvänligt och lätt att förstå för hela teamet.
 
 Vecka: 16-
+Vid detta tillfälle nådde vi en viktig milstolpe i vårt projekt när vi kände oss färdiga med planeringsstadiet och skickade in vår Style Guide för granskning. Detta markerar ett betydelsefullt steg framåt, eftersom Style Guiden kommer att fungera som en vägledning för oss när vi fortsätter att utveckla och implementera vår design.
+
+Efter att ha slutfört planeringsstadiet kunde vi börja arbeta på den faktiska konstruktionen av vårt gränssnitt. Vi valde att använda grid för att skapa en preliminär layout. Grid-tekniken ger oss en flexibel och effektiv metod för att strukturera och positionera innehåll på vår webbplats eller applikation.
+
+Genom att skapa en preliminär layout med grid kan vi visualisera hur olika element kommer att placeras på sidan och hur de kommer att förhålla sig till varandra. Detta ger oss en grundläggande struktur att bygga vidare på när vi fortsätter att utveckla och förbättra vårt gränssnitt.
+
+Att påbörja konstruktionen av layouten med grid är ett viktigt steg mot att förverkliga våra designidéer och skapa en användarvänlig och estetiskt tilltalande upplevelse för våra användare. Det markerar också övergången från planering till utförande, vilket är en spännande tid i projektets livscykel.
 
 Vecka: 17-
