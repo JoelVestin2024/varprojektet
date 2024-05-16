@@ -45,3 +45,7 @@ Genom att skapa en preliminär layout med grid kan vi visualisera hur olika elem
 Att påbörja konstruktionen av layouten med grid är ett viktigt steg mot att förverkliga våra designidéer och skapa en användarvänlig och estetiskt tilltalande upplevelse för våra användare. Det markerar också övergången från planering till utförande, vilket är en spännande tid i projektets livscykel.
 
 Vecka: 17-
+
+Vecka: 18-
+
+Vecka: 20-
